@@ -1,7 +1,7 @@
 ---
 title: Apie viską nuo pradžių
 subtitle: >-
-  Žvejyba, medžioklė, jėgos aitvarai, joga ir meditacija, šachmatai,
+  Žvejyba, medžioklė, jėgos aitvarai, joga, meditacija, šachmatai,
   programavimas.
 image: /img/home-jumbotron.jpg
 blurb:
