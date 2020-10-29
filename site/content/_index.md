@@ -1,7 +1,7 @@
 ---
 title: Apie viską nuo pradžių
 subtitle: 'Žvejyba, medžioklė, jėgos aitvarai, meditacija, šachmatai, programavimas.'
-image: /img/home-jumbotron.jpg
+image: /img/dsc_0847.jpg
 blurb:
   heading: Nori pasidalinti istorija?
   text: >-
