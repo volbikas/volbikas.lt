@@ -1,6 +1,6 @@
 ---
 title: Apie viską nuo pradžių
-subtitle: 'Žvejyba, medžioklė, jėgos aitvarai, meditacija, šachmatai, programavimas.'
+subtitle: 'Regeneracinis úkis, súriu gamyba. '
 image: /img/dsc_0847.jpg
 blurb:
   heading: Nori pasidalinti istorija?
