@@ -1,6 +1,6 @@
 ---
-title: Apie viską nuo pradžių
-subtitle: 'Regeneracinis úkis, súriu gamyba. '
+title: Regeneracinis ukis
+subtitle: ' súriu gamyba. '
 image: /img/dsc_0847.jpg
 blurb:
   heading: Nori pasidalinti istorija?
