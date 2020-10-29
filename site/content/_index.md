@@ -1,13 +1,13 @@
 ---
 title: Apie viską nuo pradžių
-subtitle: >-
-  Žvejyba, medžioklė, jėgos aitvarai, joga, meditacija, šachmatai,
-  programavimas.
+subtitle: 'Žvejyba, medžioklė, jėgos aitvarai, meditacija, šachmatai, programavimas.'
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Nori pasidalinti istorija?
   text: >-
-    Patinka tai ką randi šioje svetainėje ir manai, kad galėtum papasakoti tai ką kiti skaitytojai įvertins? Siųsk savo istoriją labas@volbikas.lt ir dalinkimės ja su visais!
+    Patinka tai ką randi šioje svetainėje ir manai, kad galėtum papasakoti tai
+    ką kiti skaitytojai įvertins? Siųsk savo istoriją labas@volbikas.lt ir
+    dalinkimės ja su visais!
 intro:
   heading: What we offer
   text: >-
