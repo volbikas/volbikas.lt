@@ -1,7 +1,7 @@
 ---
-title: Regeneracinis ukis
-subtitle: ' súriu gamyba. '
-image: /img/dsc_0847.jpg
+title: Malūnkiemis
+subtitle: regeneracinis ūkis
+image: /img/dsc_0370.jpg
 blurb:
   heading: Nori pasidalinti istorija?
   text: >-
