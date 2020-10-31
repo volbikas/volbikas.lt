@@ -8,10 +8,10 @@ blurb:
     Galite užsakyti juos rašydami el.paštu andrius@volbikas.lt arba skambindami
     +37060312310
 intro:
-  heading: >-
-    Sūriai mūsų ūkyje gaminami tik iš mūsų karvių pieno kurių pašaras ir žolė ir
-    šienas.
-  text: ''
+  heading: Pienas ir jo produktai.
+  text: >-
+    Visi pieno produktai gaminami ir perdirbami tik iš mūsų karvių pieno. Karvės
+    ganomos naudojant regeneracinius ganymo principus.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
