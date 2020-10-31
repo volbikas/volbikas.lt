@@ -3,11 +3,10 @@ title: Malūnkiemis
 subtitle: regeneracinis ūkis
 image: /img/dsc_0370.jpg
 blurb:
-  heading: Nori pasidalinti istorija?
+  heading: Norite įsigyti mūsų sūrių?
   text: >-
-    Patinka tai ką randi šioje svetainėje ir manai, kad galėtum papasakoti tai
-    ką kiti skaitytojai įvertins? Siųsk savo istoriją labas@volbikas.lt ir
-    dalinkimės ja su visais!
+    Galite užsakyti juos rašydami el.laišką andrius@volbikas.lt arba skambindami
+    +37060312310
 intro:
   heading: What we offer
   text: >-
