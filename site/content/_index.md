@@ -13,7 +13,7 @@ intro:
     Visi pieno produktai gaminami ir perdirbami tik iš mūsų karvių pieno. Karvės
     ganomos naudojant regeneracinius ganymo principus.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/104918225_279485443465378_2281920317497181011_n.jpg
     text: >-
       We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
