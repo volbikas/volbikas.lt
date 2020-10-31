@@ -2,7 +2,7 @@
 title: Kaip atgaivinti nualintas dirvas?
 date: 2018-12-08T14:13:06.263Z
 description: Pradėk suprasti tave supančia aplinką
-image: /img/fisherman-s-cottage.jpeg
+image: /img/dsc_0723.jpg
 ---
 ![]()
 
