@@ -3,10 +3,8 @@ title: Malūnkiemis
 subtitle: regeneracinis ūkis
 image: /img/dsc_0370.jpg
 blurb:
-  heading: Norite įsigyti mūsų sūrių?
-  text: >-
-    Galite užsakyti juos rašydami el.paštu andrius@volbikas.lt arba skambindami
-    +37060312310
+  heading: ''
+  text: ''
 intro:
   heading: Pienas ir jo produktai.
   text: >-
