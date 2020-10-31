@@ -5,15 +5,13 @@ image: /img/dsc_0370.jpg
 blurb:
   heading: Norite įsigyti mūsų sūrių?
   text: >-
-    Galite užsakyti juos rašydami el.laišką andrius@volbikas.lt arba skambindami
+    Galite užsakyti juos rašydami el.paštu andrius@volbikas.lt arba skambindami
     +37060312310
 intro:
-  heading: What we offer
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: >-
+    Sūriai mūsų ūkyje gaminami tik iš mūsų karvių pieno kurių pašaras ir žolė ir
+    šienas.
+  text: ''
 products:
   - image: img/illustrations-coffee.svg
     text: >-
